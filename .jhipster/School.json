@@ -1,0 +1,20 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "name",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "buildings",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20180601080501",
+    "dto": "no",
+    "service": "serviceImpl",
+    "entityTableName": "school",
+    "jpaMetamodelFiltering": false,
+    "pagination": "no"
+}
